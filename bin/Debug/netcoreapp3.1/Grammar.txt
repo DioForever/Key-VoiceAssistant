@@ -1,0 +1,11 @@
+﻿Commands:
+Hey key
+Shut down System
+Hello Key
+System Run Spotify
+System Shut down Spotify
+What time is it
+What date is it
+System run us  (OSU)
+System shut down us  (OSU)
+System shut down Discord
